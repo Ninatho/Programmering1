@@ -1,0 +1,14 @@
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3.5\MOMENT3.5\bin\Debug\MOMENT3.5.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3.5\MOMENT3.5\bin\Debug\MOMENT3.5.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3.5\MOMENT3.5\bin\Debug\MOMENT3.5.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3.5\MOMENT3.5\obj\Debug\MOMENT3.5.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3.5\MOMENT3.5\obj\Debug\MOMENT3.5.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3.5\MOMENT3.5\obj\Debug\MOMENT3.5.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3.5\MOMENT3.5\obj\Debug\MOMENT3.5.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.5\MOMENT3.5\bin\Debug\MOMENT3.5.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.5\MOMENT3.5\bin\Debug\MOMENT3.5.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.5\MOMENT3.5\bin\Debug\MOMENT3.5.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.5\MOMENT3.5\obj\Debug\MOMENT3.5.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.5\MOMENT3.5\obj\Debug\MOMENT3.5.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.5\MOMENT3.5\obj\Debug\MOMENT3.5.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.5\MOMENT3.5\obj\Debug\MOMENT3.5.pdb

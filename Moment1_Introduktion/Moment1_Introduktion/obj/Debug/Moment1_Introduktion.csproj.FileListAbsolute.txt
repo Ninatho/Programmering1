@@ -1,0 +1,15 @@
+C:\Users\Larissa\source\repos\Period_3_2023\Programmering_1\MOMENT1\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.csproj.AssemblyReference.cache
+C:\Users\Larissa\source\repos\Period_3_2023\Programmering_1\MOMENT1\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Larissa\source\repos\Period_3_2023\Programmering_1\MOMENT1\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.csproj.CoreCompileInputs.cache
+C:\Users\Larissa\source\repos\Period_3_2023\Programmering_1\MOMENT1\Moment1_Introduktion\bin\Debug\Moment1_Introduktion.exe.config
+C:\Users\Larissa\source\repos\Period_3_2023\Programmering_1\MOMENT1\Moment1_Introduktion\bin\Debug\Moment1_Introduktion.exe
+C:\Users\Larissa\source\repos\Period_3_2023\Programmering_1\MOMENT1\Moment1_Introduktion\bin\Debug\Moment1_Introduktion.pdb
+C:\Users\Larissa\source\repos\Period_3_2023\Programmering_1\MOMENT1\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.exe
+C:\Users\Larissa\source\repos\Period_3_2023\Programmering_1\MOMENT1\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment1_Introduktion\Moment1_Introduktion\bin\Debug\Moment1_Introduktion.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment1_Introduktion\Moment1_Introduktion\bin\Debug\Moment1_Introduktion.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment1_Introduktion\Moment1_Introduktion\bin\Debug\Moment1_Introduktion.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment1_Introduktion\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment1_Introduktion\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment1_Introduktion\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment1_Introduktion\Moment1_Introduktion\obj\Debug\Moment1_Introduktion.pdb

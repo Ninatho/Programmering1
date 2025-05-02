@@ -1,0 +1,7 @@
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT4\MOMENT4.1\MOMENT4.1\bin\Debug\MOMENT4.1.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT4\MOMENT4.1\MOMENT4.1\bin\Debug\MOMENT4.1.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT4\MOMENT4.1\MOMENT4.1\bin\Debug\MOMENT4.1.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT4\MOMENT4.1\MOMENT4.1\obj\Debug\MOMENT4.1.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT4\MOMENT4.1\MOMENT4.1\obj\Debug\MOMENT4.1.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT4\MOMENT4.1\MOMENT4.1\obj\Debug\MOMENT4.1.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT4\MOMENT4.1\MOMENT4.1\obj\Debug\MOMENT4.1.pdb

@@ -1,0 +1,7 @@
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.Uppgift2\Moment6.Uppgift2\bin\Debug\Moment6.Uppgift2.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.Uppgift2\Moment6.Uppgift2\bin\Debug\Moment6.Uppgift2.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.Uppgift2\Moment6.Uppgift2\bin\Debug\Moment6.Uppgift2.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.Uppgift2\Moment6.Uppgift2\obj\Debug\Moment6.Uppgift2.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.Uppgift2\Moment6.Uppgift2\obj\Debug\Moment6.Uppgift2.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.Uppgift2\Moment6.Uppgift2\obj\Debug\Moment6.Uppgift2.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.Uppgift2\Moment6.Uppgift2\obj\Debug\Moment6.Uppgift2.pdb

@@ -1,0 +1,7 @@
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT5\Moment5.4\Moment5.4\bin\Debug\Moment5.4.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT5\Moment5.4\Moment5.4\bin\Debug\Moment5.4.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT5\Moment5.4\Moment5.4\bin\Debug\Moment5.4.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT5\Moment5.4\Moment5.4\obj\Debug\Moment5.4.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT5\Moment5.4\Moment5.4\obj\Debug\Moment5.4.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT5\Moment5.4\Moment5.4\obj\Debug\Moment5.4.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT5\Moment5.4\Moment5.4\obj\Debug\Moment5.4.pdb

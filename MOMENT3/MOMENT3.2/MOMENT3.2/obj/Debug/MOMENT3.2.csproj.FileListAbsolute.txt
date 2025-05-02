@@ -1,0 +1,7 @@
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.2\MOMENT3.2\bin\Debug\MOMENT3.2.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.2\MOMENT3.2\bin\Debug\MOMENT3.2.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.2\MOMENT3.2\bin\Debug\MOMENT3.2.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.2\MOMENT3.2\obj\Debug\MOMENT3.2.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.2\MOMENT3.2\obj\Debug\MOMENT3.2.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.2\MOMENT3.2\obj\Debug\MOMENT3.2.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT3\MOMENT3.2\MOMENT3.2\obj\Debug\MOMENT3.2.pdb

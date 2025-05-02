@@ -1,0 +1,14 @@
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment6.tärningar3\Moment6.tärningar3\bin\Debug\Moment6.tärningar3.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment6.tärningar3\Moment6.tärningar3\bin\Debug\Moment6.tärningar3.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment6.tärningar3\Moment6.tärningar3\bin\Debug\Moment6.tärningar3.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment6.tärningar3\Moment6.tärningar3\obj\Debug\Moment6.tärningar3.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment6.tärningar3\Moment6.tärningar3\obj\Debug\Moment6.tärningar3.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment6.tärningar3\Moment6.tärningar3\obj\Debug\Moment6.tärningar3.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\Moment6.tärningar3\Moment6.tärningar3\obj\Debug\Moment6.tärningar3.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.tärningar3\Moment6.tärningar3\bin\Debug\Moment6.tärningar3.exe.config
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.tärningar3\Moment6.tärningar3\bin\Debug\Moment6.tärningar3.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.tärningar3\Moment6.tärningar3\bin\Debug\Moment6.tärningar3.pdb
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.tärningar3\Moment6.tärningar3\obj\Debug\Moment6.tärningar3.csproj.AssemblyReference.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.tärningar3\Moment6.tärningar3\obj\Debug\Moment6.tärningar3.csproj.CoreCompileInputs.cache
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.tärningar3\Moment6.tärningar3\obj\Debug\Moment6.tärningar3.exe
+C:\Users\nina_\OneDrive\Skrivbord\Programering1\MOMENT6\Moment6.tärningar3\Moment6.tärningar3\obj\Debug\Moment6.tärningar3.pdb

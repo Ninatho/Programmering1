@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nina_\\OneDrive\\Skrivbord\\Programering1\\MOMENT4\\MOMENT4.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F47EC67-378C-49CA-B9CF-6EE9FF8B9494}|MOMENT4.3\\MOMENT4.3.csproj|c:\\users\\nina_\\onedrive\\skrivbord\\programering1\\moment4\\moment4.3\\moment4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F47EC67-378C-49CA-B9CF-6EE9FF8B9494}|MOMENT4.3\\MOMENT4.3.csproj|solutionrelative:moment4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nina_\\OneDrive\\Skrivbord\\Programering1\\MOMENT4\\MOMENT4.3\\MOMENT4.3\\Program.cs",
+              "RelativeDocumentMoniker": "MOMENT4.3\\Program.cs",
+              "ToolTip": "C:\\Users\\nina_\\OneDrive\\Skrivbord\\Programering1\\MOMENT4\\MOMENT4.3\\MOMENT4.3\\Program.cs",
+              "RelativeToolTip": "MOMENT4.3\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBkAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:38:10.35Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
